@@ -1,4 +1,2 @@
 # Leenankurssi
-Kurssitöiden palautus
-
-testiboi
+Kurssitöiden palautus.
