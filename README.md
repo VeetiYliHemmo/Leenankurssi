@@ -1,2 +1,2 @@
 # Leenankurssi
-Kurssitöiden palautus.
+Kurssitöiden palautus!
