@@ -1,0 +1,2 @@
+Haiseva koodi ei ole bugi ohjelmassa vaan koodia, 
+joka saattaa hidastaa koodin tuottamista tai aiheuttaa bugeja koodissa myöhemmin.
