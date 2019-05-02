@@ -1,0 +1,71 @@
+@charset utf-8;
+	
+.row.content {
+		
+	height: 1500px
+		
+}
+
+.sidenav {
+		
+	background-color: #f1f1f1;
+	height: 100%;
+		
+}
+		
+footer {
+		
+	background-color: #555;
+	color: white;
+	padding: 15px;
+		
+}
+		
+@media screen and (max-width: 767px) {
+				
+.sidenav {
+		
+	height: auto;
+	padding: 15px;
+		
+}
+				
+.row.content {
+		
+	height: auto;
+		
+}
+		  
+}
+
+#sidenav {
+	
+	background-color: darkgray;
+	
+}
+
+body {
+	
+	background-color: lightgray;
+
+}
+
+#fredag-frog {
+	
+	height: 125px;
+	width: 125px;
+	
+}
+
+#fredag-frog_logo {
+	
+	height: 75px;
+	width: 75px;
+	
+}
+
+h1 {
+	
+	text-align: left;
+	
+}
